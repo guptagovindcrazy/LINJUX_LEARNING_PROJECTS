@@ -2,7 +2,7 @@
 
 
 
-# Linux Command Practice
+# Linux learning projects
 
 A beginner-friendly Linux practice repository created during my Cloud & DevOps training.
 
@@ -109,4 +109,4 @@ Overall workflow followed during the Linux command practice assignment.
 
 ## Author
 
-Ashmit Negi
+Govind gupta
